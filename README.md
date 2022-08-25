@@ -48,3 +48,5 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Annuore/Operationalize-a-ML-Microservice-API/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Annuore/Operationalize-a-ML-Microservice-API/tree/main)
